@@ -65,7 +65,7 @@ async function createCategorySelectMenu() {
     ];
 
     const embed = createEmbed({
-        title: "🤖 TitanBot Help Center",
+        title: "🤖 breeze Help Center",
         description: "Your all-in-one Discord companion for moderation, economy, fun, and server management.\n\nSelect a category below to explore our powerful commands:",
         color: 'primary'
     });
