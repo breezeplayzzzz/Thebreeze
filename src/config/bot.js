@@ -5,7 +5,7 @@ export const botConfig = {
   // =========================
   // BOT PREFIX
   // =========================
-  prefix: "/",
+  prefix: "!",
 
   // =========================
   // BOT PRESENCE (what users see under the bot name)
@@ -30,9 +30,9 @@ export const botConfig = {
     activities: [
       {
         // Text users will see (example: "Playing /help | Titan Bot").
-        name: "Made with ❤️",
+        name: "Made by real.breeze",
         // Activity type number (0 = Playing).
-        type: 0, 
+        type: 4, 
       },
     ],
   },
@@ -93,8 +93,8 @@ export const botConfig = {
   embeds: {
     colors: {
       // Main brand colors.
-      primary: "#336699", 
-      secondary: "#2F3136", 
+      primary: "#3838FF", 
+      secondary: "#38D1FF", 
 
       // Standard status colors for success/error/warning/info messages.
       success: "#57F287", 
