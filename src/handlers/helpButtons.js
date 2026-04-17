@@ -130,12 +130,12 @@ async function createCategorySelectMenu() {
 
     const supportButton = new ButtonBuilder()
         .setLabel("Support Server")
-        .setURL("https://discord.gg/QnWNz2dKCE")
+        .setURL("https://discord.gg/NgbQjcFVYn")
         .setStyle(ButtonStyle.Link);
 
     const touchpointButton = new ButtonBuilder()
-        .setLabel("Learn from Touchpoint")
-        .setURL("https://www.youtube.com/@TouchDisc")
+        .setLabel("real breeze")
+        .setURL("https://www.youtube.com/@breezeplyzzz")
         .setStyle(ButtonStyle.Link);
 
     const selectRow = createSelectMenu(
